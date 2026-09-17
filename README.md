@@ -1,29 +1,35 @@
 # Hi, I'm Imad Eddine Berjamy 👋
 
-### UiPath Tech Lead | Agentic Automation & RPA Specialist | Community Lead
+### Senior Automation Engineer & UiPath Tech Lead | Community Lead
 
-I architect, build, and scale robust enterprise automation systems that bridge deterministic RPA with modern agentic AI. 
+Senior Automation Engineer and UiPath Tech Lead with several years of experience designing, delivering, scaling, and maintaining enterprise automation solutions.
 
-With over **40 enterprise automations delivered to production** and **150+ maintenance interventions**, I combine deep expertise in UiPath enterprise frameworks (REFramework, Orchestrator Queues) with modern Python-based browser automation (Playwright, LLM orchestration, REST APIs).
+I work across the complete automation lifecycle: process assessment, solution design, development, testing, deployment, production support, root-cause analysis, and continuous improvement.
 
-Currently serving as **UiPath Tech Lead & RPA Consultant** and **Community Lead** at **AFD.TECH (Accenture)**.
+My experience includes:
+
+- **Leading UiPath projects** and supporting automation teams
+- **Designing robust REFramework** and Dispatcher/Performer architectures
+- **Managing UiPath Orchestrator** environments, queues, assets, jobs, triggers, roles, and licenses
+- **Establishing development, testing, documentation, and governance standards**
+- **Diagnosing and resolving complex production incidents**
+- **Integrating automations** with REST APIs, databases, Python, and enterprise applications
+- **Facilitating technical workshops** and sharing automation best practices
+- **Building proofs of concept** combining RPA, Generative AI, AI agents, and Agentic Automation
+
+I am particularly interested in the convergence of RPA, APIs, AI agents, and human decision-making to build automation solutions that remain secure, maintainable, and scalable in production.
+
+**Core technologies**: UiPath, Automation Anywhere, REFramework, Orchestrator, Maestro, AI Agents, REST APIs, Python, SQL, Git/GitLab, Jira.
 
 ---
 
-### 🎯 Core Focus & Expertise
-
-- **Agentic Automation & Generative AI**: Designing autonomous browser agents powered by multi-provider LLMs (Vertex AI, OpenAI, Anthropic, Gemini, Azure OpenAI).
-- **Enterprise RPA Architecture**: Scalable, high-throughput workflows built on UiPath REFramework, transaction queues, and defensive exception handling.
-- **Full-Stack Automation**: Python, Playwright, API-first integrations, asynchronous workers, and custom UiPath activity libraries.
-- **Tech Leadership**: Solution architecture, code reviews, automated CI/CD pipelines, and mentoring automation teams.
-
----
-
-### 🏆 Certifications
+### 🏆 Certifications & Digital Credentials
 
 - **UiPath Certified Agentic Automation Professional**
 - **UiPath Certified Professional Automation Developer**
 - **UiPath Certified Associate Automation Developer**
+
+*(For verified digital credentials and full professional background, visit my [LinkedIn profile](https://linkedin.com/in/berjamy)).*
 
 ---
 
@@ -45,11 +51,11 @@ Currently serving as **UiPath Tech Lead & RPA Consultant** and **Community Lead*
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Automation & RPA** | UiPath Studio, Orchestrator, REFramework, Queues, Document Understanding |
+| **Automation & RPA** | UiPath Studio, Orchestrator, Automation Anywhere, REFramework, Maestro, Queues, Document Understanding |
 | **Agentic AI & Web** | Playwright, Autonomous Browser Agents, Prompt Engineering, Function Calling |
-| **Languages** | Python, C#, VB.NET, PowerShell, SQL, Bash |
+| **Languages & Scripts** | Python, C#, VB.NET, PowerShell, SQL, Bash |
 | **LLM & Cloud Providers** | Google Vertex AI, Google Gemini, OpenAI, Anthropic Claude, Azure OpenAI |
-| **Protocols & Tools** | REST APIs, JSON/XML, Git, GitHub Actions, Postman |
+| **Protocols & Collaboration** | REST APIs, JSON/XML, Git/GitLab, Jira, Postman |
 
 ---
 
