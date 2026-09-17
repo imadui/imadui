@@ -26,8 +26,6 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 ### 🏆 Certifications & Digital Credentials
 
 - **UiPath Certified Agentic Automation Professional**
-- **UiPath Certified Professional Automation Developer**
-- **UiPath Certified Associate Automation Developer**
 
 *(For verified digital credentials and full professional background, visit my [LinkedIn profile](https://linkedin.com/in/berjamy)).*
 
