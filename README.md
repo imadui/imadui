@@ -1,8 +1,9 @@
 # Hi, I'm Imad Eddine Berjamy 👋
 
-### Senior Automation Engineer & UiPath Tech Lead | Community Lead
+### Senior Automation Engineer | UiPath Tech Lead
+**RPA & Agentic Automation | AI Agents | Python**
 
-Senior Automation Engineer and UiPath Tech Lead with several years of experience designing, delivering, scaling, and maintaining enterprise automation solutions.
+Senior Automation Engineer and UiPath Tech Lead with extensive experience designing, delivering, scaling, and maintaining enterprise automation solutions across UiPath, Agentic AI, and Python.
 
 I work across the complete automation lifecycle: process assessment, solution design, development, testing, deployment, production support, root-cause analysis, and continuous improvement.
 
@@ -13,13 +14,13 @@ My experience includes:
 - **Managing UiPath Orchestrator** environments, queues, assets, jobs, triggers, roles, and licenses
 - **Establishing development, testing, documentation, and governance standards**
 - **Diagnosing and resolving complex production incidents**
-- **Integrating automations** with REST APIs, databases, Python, and enterprise applications
-- **Facilitating technical workshops** and sharing automation best practices
-- **Building proofs of concept** combining RPA, Generative AI, AI agents, and Agentic Automation
+- **Integrating automations** with REST APIs, databases, Python, Playwright, and enterprise applications
+- **Facilitating technical workshops** and sharing automation best practices as a Community Lead
+- **Building proofs of concept & production agents** combining RPA, Generative AI, AI agents, and Agentic Automation
 
 I am particularly interested in the convergence of RPA, APIs, AI agents, and human decision-making to build automation solutions that remain secure, maintainable, and scalable in production.
 
-**Core technologies**: UiPath, Automation Anywhere, REFramework, Orchestrator, Maestro, AI Agents, REST APIs, Python, SQL, Git/GitLab, Jira.
+**Core technologies**: UiPath, Automation Anywhere, REFramework, Orchestrator, Maestro, AI Agents, Agentic Automation, Playwright, REST APIs, Python, SQL, Git/GitLab, Jira.
 
 ---
 
@@ -34,6 +35,9 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 ### 🚀 Featured Project: NAVIA_PATH
 
 [![NAVIA_PATH](https://img.shields.io/badge/Featured%20Project-NAVIA__PATH-0052CC?style=for-the-badge&logo=github)](https://github.com/imadui/NAVIA_PATH)
+
+> **"LLM decides, Python executes."**  
+> *Prompt-driven browser automation for UiPath/RPA, powered by Python, Playwright and model-agnostic LLMs.*
 
 **Autonomous Multi-Provider Web Automation Agent for RPA and Windows Workstations**
 - Transforms natural-language objectives into multi-step browser actions.
