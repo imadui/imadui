@@ -72,5 +72,4 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 ### 📬 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/berjamy](https://linkedin.com/in/berjamy)
-- **GitHub**: [github.com/imadui](https://github.com/imadui)
 - **Email**: [imad.berjamy@outlook.com](mailto:imad.berjamy@outlook.com)
