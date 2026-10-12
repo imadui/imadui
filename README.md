@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/linkedin-banner.jpg" alt="AI Engineer | UiPath Agentic Automation Developer | AI Agent Architect" width="100%" />
+</p>
+
+<img align="right" src="assets/profile-photo.jpg" alt="Imad Eddine Berjamy" width="155" />
+
 # Hi, I'm Imad Eddine Berjamy 👋
 
 ### AI Engineer
@@ -5,9 +11,13 @@
 
 **RPA & Agentic Automation | AI Agents | Python**
 
-AI Engineer working on automation projects from process assessment and solution design to development, deployment, and production support.
+AI Engineer working on Automation projects from process assessment and solution design to development, deployment and production support.
 
-I work across the complete automation lifecycle, including development standards, technical reviews, testing, root-cause analysis, and continuous improvement. My focus is on reliable, governed, production-ready solutions.
+My work includes UiPath architecture, REFramework, Dispatcher/Performer patterns, Orchestrator administration, reusable components, troubleshooting and production monitoring. I also help define development standards, review technical solutions and share best practices with automation teams.
+
+I also work on RPA integration with Python, REST APIs, LLMs and AI agents. I build and test these approaches through technical prototypes and automation projects.
+
+I work across the complete automation lifecycle: process assessment, solution design, development, testing, deployment, production support, root-cause analysis, and continuous improvement.
 
 My experience includes:
 
@@ -45,7 +55,7 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 
 I built NavIA with Python and Playwright. It takes a prompt, observes the browser, chooses the next action through an agentic loop, and executes multi-step web tasks. NavIA can also be called from UiPath through reusable activities and return structured outputs to the workflow.
 
-**Additional capabilities**
+**Additional technical capabilities**
 - Transforms natural-language objectives into multi-step browser actions.
 - Model-agnostic backend supporting Google Vertex AI, Gemini, OpenAI GPT-4o, Claude 3.5 Sonnet, and Azure OpenAI.
 - Shipped with ready-to-use native UiPath Studio activities for persistent Edge and Chrome automation.
@@ -78,7 +88,6 @@ I built NavIA with Python and Playwright. It takes a prompt, observes the browse
 ### 📬 Connect with Me
 
 I'm open to technical collaborations and freelance opportunities around UiPath, RPA, AI integration, and Agentic Automation.
-
 
 - **LinkedIn**: [linkedin.com/in/berjamy](https://linkedin.com/in/berjamy)
 - **Email**: [imad.berjamy@outlook.com](mailto:imad.berjamy@outlook.com)
