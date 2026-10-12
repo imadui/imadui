@@ -31,9 +31,23 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 
 ### 🏆 Certifications & Digital Credentials
 
-- **UiPath Certified Agentic Automation Professional**
+Verified credentials and certificates (click any title to view the original):
 
-*(For verified digital credentials and full professional background, visit my [LinkedIn profile](https://linkedin.com/in/berjamy)).*
+**AI & Computer Science**
+- **[CS50's Introduction to Artificial Intelligence with Python (CS50 AI)](https://certificates.cs50.io/cffd0815-3836-4671-8b81-60f865daa8f7.pdf?size=letter)** — Harvard University · 2026
+- **[CS50x: Introduction to Computer Science](https://certificates.cs50.io/7aaeef13-f778-42aa-95a2-e10d808f7522.pdf?size=letter)** — Harvard University · 2024
+
+**Automation & RPA**
+- **[UiPath Certified Professional Agentic Automation Associate](https://credentials.uipath.com/2ddb04f2-5b08-42e2-bab2-40f370dafb8b)** — UiPath · Apr 2026
+- **[Advanced Automation Certification](https://certificates.automationanywhere.com/7777e584-2c21-4bce-9515-63ac2daafa06)** — Automation Anywhere · Jan 2026
+- **[SS&C Blue Prism Robotic Process Automation Professional Certificate](https://www.linkedin.com/learning/certificates/537eaf341fbe01e7a273089a60beff7e836dd64014d5dfb5700311f8736674eb)** — SS&C Blue Prism / LinkedIn Learning · May 2024
+
+**Agile, Project Management & Professional Development**
+- **[Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/fa00ef77f7750aacd8a75d701e0dcda118c668fc6d0796322ebddc6af2ad9cbd)** — Atlassian / LinkedIn Learning · Feb 2025
+- **[Scrum: Advanced](https://www.linkedin.com/learning/certificates/44726ccd8192469030acb2c47a502b998aa7c6a3caf7d453995a42942cca5f4b)** — LinkedIn Learning · Mar 2025
+- **[McKinsey.org Forward Program](https://www.credly.com/badges/e69ccf7a-0d7a-4e57-8c4c-95ec75882cae)** — McKinsey.org · 2024
+
+*Additional professional background: [LinkedIn](https://www.linkedin.com/in/berjamy/details/certifications/).*
 
 ---
 
