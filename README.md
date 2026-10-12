@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="assets/linkedin-banner.jpg" alt="AI Engineer | UiPath Agentic Automation Developer | AI Agent Architect" width="100%" />
+  <img src="assets/ai-engineer-banner-2026.webp" alt="AI Engineer | UiPath Agentic Automation Developer | AI Agent Architect" width="100%" />
 </p>
 
 # Hi, I'm Imad Eddine Berjamy 👋
-
-### AI Engineer
-**UiPath Agentic Automation Developer · AI Agent Architect**
-
-**RPA & Agentic Automation | AI Agents | Python**
 
 AI Engineer working on Automation projects from process assessment and solution design to development, deployment and production support.
 
