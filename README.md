@@ -1,11 +1,13 @@
 # Hi, I'm Imad Eddine Berjamy 👋
 
-### Senior Automation Engineer | UiPath Tech Lead
+### AI Engineer
+**UiPath Agentic Automation Developer · AI Agent Architect**
+
 **RPA & Agentic Automation | AI Agents | Python**
 
-Senior Automation Engineer and UiPath Tech Lead with extensive experience designing, delivering, scaling, and maintaining enterprise automation solutions across UiPath, Agentic AI, and Python.
+AI Engineer working on automation projects from process assessment and solution design to development, deployment, and production support.
 
-I work across the complete automation lifecycle: process assessment, solution design, development, testing, deployment, production support, root-cause analysis, and continuous improvement.
+I work across the complete automation lifecycle, including development standards, technical reviews, testing, root-cause analysis, and continuous improvement. My focus is on reliable, governed, production-ready solutions.
 
 My experience includes:
 
@@ -39,7 +41,11 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 > **"LLM decides, Python executes."**  
 > *Prompt-driven browser automation for UiPath/RPA, powered by Python, Playwright and model-agnostic LLMs.*
 
-**Autonomous Multi-Provider Web Automation Agent for RPA and Windows Workstations**
+**NavIA: Open-Source AI Browser Agent for RPA and Windows Workstations**
+
+I built NavIA with Python and Playwright. It takes a prompt, observes the browser, chooses the next action through an agentic loop, and executes multi-step web tasks. NavIA can also be called from UiPath through reusable activities and return structured outputs to the workflow.
+
+**Additional capabilities**
 - Transforms natural-language objectives into multi-step browser actions.
 - Model-agnostic backend supporting Google Vertex AI, Gemini, OpenAI GPT-4o, Claude 3.5 Sonnet, and Azure OpenAI.
 - Shipped with ready-to-use native UiPath Studio activities for persistent Edge and Chrome automation.
@@ -70,6 +76,9 @@ I am particularly interested in the convergence of RPA, APIs, AI agents, and hum
 ---
 
 ### 📬 Connect with Me
+
+I'm open to technical collaborations and freelance opportunities around UiPath, RPA, AI integration, and Agentic Automation.
+
 
 - **LinkedIn**: [linkedin.com/in/berjamy](https://linkedin.com/in/berjamy)
 - **Email**: [imad.berjamy@outlook.com](mailto:imad.berjamy@outlook.com)
