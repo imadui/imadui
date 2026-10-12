@@ -2,8 +2,6 @@
   <img src="assets/linkedin-banner.jpg" alt="AI Engineer | UiPath Agentic Automation Developer | AI Agent Architect" width="100%" />
 </p>
 
-<img align="right" src="assets/profile-photo.jpg" alt="Imad Eddine Berjamy" width="155" />
-
 # Hi, I'm Imad Eddine Berjamy 👋
 
 ### AI Engineer
